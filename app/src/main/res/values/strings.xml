@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BCSD_Android_SWAPI</string>
+    <string name="navigation_people_title">people</string>
+    <string name="navigation_planets_title">planet</string>
+    <string name="navigation_films_title">film</string>
+</resources>
